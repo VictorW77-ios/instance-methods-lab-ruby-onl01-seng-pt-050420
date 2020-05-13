@@ -5,3 +5,6 @@ def bark
 end
 end
 
+def sit 
+  puts "The Dog is sitting"
+end 
